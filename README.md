@@ -1,4 +1,4 @@
-🌌 Cosmic Oracle
+🌌 Cosmic Oracle:
 Cosmic Oracle is a modern web application built with React, Vite, TypeScript, TailwindCSS, and shadcn/ui.
 It delivers an interactive and elegant frontend experience.
 
